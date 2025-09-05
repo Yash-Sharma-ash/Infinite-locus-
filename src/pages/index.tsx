@@ -48,7 +48,7 @@ export default function HomePage() {
           {/* Right: Hero Image */}
           <div className="relative w-full h-[360px] md:h-[440px] rounded-3xl overflow-hidden shadow">
             <img
-              src="/leaf.jpg"
+              src="/leaf.jpeg"
               alt="Campus leaf"
               className="w-full h-full object-cover"
             />
