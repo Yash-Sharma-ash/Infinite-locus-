@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "code",
   "private": true,
   "version": "0.0.0",
@@ -37,7 +36,6 @@
     "vite": "^7.1.2"
   }
 }
-=======
   "name": "campus-event-platform",
   "version": "1.0.0",
   "description": "Real-time campus event management platform",
@@ -76,4 +74,4 @@
   "author": "",
   "license": "ISC"
 }
->>>>>>> 51ca97f80d3469453d37ec44945cfe4e30dc9b81
+
