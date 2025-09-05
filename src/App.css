@@ -1,0 +1,4 @@
+/* Example: custom utility overrides */
+.container {
+  @apply mx-auto max-w-6xl p-4;
+}
